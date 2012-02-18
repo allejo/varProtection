@@ -1,0 +1,3 @@
+_gravity
+_wingsGravity
+_jumpVelocity

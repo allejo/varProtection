@@ -1,5 +1,5 @@
 /* 
-Copyright (c) 2011 Vladimir Jimenez
+Copyright (c) 2012 Vladimir Jimenez
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -40,9 +40,9 @@ you want to be protected. The syntax of loading the plugin is as follows:
 
 -loadplugin /path/to/varProtection.so,/path/to/lockedVars.txt
 
-Each variable needs to be put with an '_' and on a seperate line. In order
+Each variable needs to be put with an '_' and on a separate line. In order
 for the plugin to work correctly, the variable must be spelled correctly
-because the plugin IS case sensitve. The format for the conf file is as
+because the plugin IS case sensitive. The format for the conf file is as
 follows:
 
 _gravity
